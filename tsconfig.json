@@ -1,16 +1,13 @@
 {
-  "compilerOptions":
-  {
-    "target": "es2020",
-    "module": "commonjs",
-    "outDir": "build/",
-    "esModuleInterop": true,
-    "strict": true
+  "compilerOptions": {
+      "target": "es2020",
+      "module": "commonjs",
+      "outDir": "build/",
+      "esModuleInterop": true,
+      "strict": true
   },
-
-  "include":
-  [
-    "src/**/*",
-    "config.json"
+  "include": [
+      "src/**/*",
+      "config.json"
   ]
 }
